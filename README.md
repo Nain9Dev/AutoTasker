@@ -127,7 +127,7 @@ You can test all endpoints here, and you can authenticate by pasting a JWT from 
 
 **Aitor Nain Mendoza Vallejo**
 
-  * **GitHub:** [NainDev](https://github.com/NainDev)
-  * **LinkedIn:** `[Your LinkedIn Profile URL]`
+  * **GitHub:** [NainDev]([https://github.com/NainDev](https://github.com/Nain9Dev))
+  * **LinkedIn:** `https://www.linkedin.com/in/aitor-nain-mendoza-vallejo/`
 
 <!-- end list -->
