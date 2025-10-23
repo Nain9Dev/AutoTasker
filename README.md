@@ -1,9 +1,3 @@
-(Answering in English, per your request).
-
-Here is a practical and professional `README.md` template for your `AutoTasker` project. This is your project's "front door." It should be clean, clear, and show what skills you are using.
-
-Copy and paste this directly into the `README.md` file in the root of your `AutoTasker` solution.
-
 -----
 
 ````markdown
