@@ -5,6 +5,12 @@ VisualStudioVersion = 17.14.36616.10 d17.14
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AutoTasker.WebAPI", "AutoTasker.WebAPI\AutoTasker.WebAPI.csproj", "{2AC56C7B-1816-4539-9611-36CC22592671}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AutoTasker.Domain", "AutoTasker.Domain\AutoTasker.Domain.csproj", "{3F1B108A-80DF-47A2-9AD5-E841CF8820F5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AutoTasker.Application", "AutoTasker.Application\AutoTasker.Application.csproj", "{9C04BC76-6F92-4039-9300-20CFF76B972E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AutoTasker.Infrastructure", "AutoTasker.Infrastructure\AutoTasker.Infrastructure.csproj", "{974D1C03-69A4-40BC-8214-8D47BEB8112F}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +21,18 @@ Global
 		{2AC56C7B-1816-4539-9611-36CC22592671}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{2AC56C7B-1816-4539-9611-36CC22592671}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{2AC56C7B-1816-4539-9611-36CC22592671}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3F1B108A-80DF-47A2-9AD5-E841CF8820F5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3F1B108A-80DF-47A2-9AD5-E841CF8820F5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3F1B108A-80DF-47A2-9AD5-E841CF8820F5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3F1B108A-80DF-47A2-9AD5-E841CF8820F5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9C04BC76-6F92-4039-9300-20CFF76B972E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9C04BC76-6F92-4039-9300-20CFF76B972E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9C04BC76-6F92-4039-9300-20CFF76B972E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9C04BC76-6F92-4039-9300-20CFF76B972E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{974D1C03-69A4-40BC-8214-8D47BEB8112F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{974D1C03-69A4-40BC-8214-8D47BEB8112F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{974D1C03-69A4-40BC-8214-8D47BEB8112F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{974D1C03-69A4-40BC-8214-8D47BEB8112F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
